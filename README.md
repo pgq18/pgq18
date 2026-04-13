@@ -38,7 +38,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
--->
 
 <br/>
 
@@ -47,7 +46,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgq18&theme=transparent&layout=compact" />
 </a>
 
-<!--
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
